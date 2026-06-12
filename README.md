@@ -1,5 +1,3 @@
-# Sales_Dashboard
-
 # Mobile Sales Dashboard
 
 ## Project Overview
