@@ -53,4 +53,4 @@ This Power BI dashboard provides a comprehensive analysis of mobile phone sales 
 
 
 ## Author
-Rushi Sawant
+Rushi Sawant.
