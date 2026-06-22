@@ -41,7 +41,7 @@ This Power BI dashboard provides a comprehensive analysis of mobile phone sales 
 - DAX
 - Microsoft Excel / CSV Dataset
 
-## Business Insights
+## Business InsightS
 - Identifies top-performing cities.
 - Tracks overall sales growth.
 - Analyzes customer purchasing patterns.
